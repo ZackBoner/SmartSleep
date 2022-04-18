@@ -1,0 +1,4 @@
+com.samsung.shealth.report,6212007,3
+timezone,start_date,update_time,create_time,type,is_empty,version,deviceuuid,content,pkg_name,datauuid,compressed_content
+America/New_York,1648958400000,2022-04-11 19:35:17.510,2022-04-11 19:35:16.258,0,1,2,srrFtdx0wv,X,com.sec.android.app.shealth,6702ff1d-33ef-400d-b57f-4dfa8b2910de,6702ff1d-33ef-400d-b57f-4dfa8b2910de.compressed_content.json,
+America/New_York,1649563200000,2022-04-17 19:27:06.251,2022-04-17 19:27:05.001,0,0,2,srrFtdx0wv,X,com.sec.android.app.shealth,325e2935-149b-40e6-a76e-b50e2c8dc91c,325e2935-149b-40e6-a76e-b50e2c8dc91c.compressed_content.json,

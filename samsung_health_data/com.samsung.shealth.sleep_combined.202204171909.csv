@@ -1,0 +1,3 @@
+com.samsung.shealth.sleep_combined,6212007,1
+original_efficiency,start_time,mental_recovery,factor_01,factor_02,factor_03,factor_04,factor_05,factor_06,factor_07,factor_08,factor_09,factor_10,has_sleep_data,update_time,create_time,data_version,physical_recovery,original_wake_up_time,movement_awakening,original_bed_time,quality,time_offset,extra_data,deviceuuid,sleep_cycle,efficiency,sleep_score,pkg_name,sleep_duration,end_time,datauuid
+,2022-04-17 05:39:00.000,75.0,17,66,1,15,50,476,75,1,27,0,0,2022-04-17 14:22:43.439,2022-04-17 14:22:43.439,3,71.0,,18.0,,0,UTC-0400,,2ZwajQKcly,6,89.0,77,com.sec.android.app.shealth,476,2022-04-17 14:10:00.000,98b3adae-c7bd-4344-86c6-d7a66fe21a6b,
